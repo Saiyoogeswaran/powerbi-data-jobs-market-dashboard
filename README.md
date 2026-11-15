@@ -20,12 +20,12 @@ The goal of this dashboard is to transform raw job posting data into actionable 
 
 ### Project Objectives
 
-✅ Analyze demand for different data-related roles
-✅ Explore salary trends across jobs
-✅ Evaluate employment type distribution
-✅ Investigate educational requirements
-✅ Enable users to drill into specific job roles for deeper analysis
-✅ Present findings through an interactive Power BI dashboard
+✅ Analyze demand for different data-related roles <br/>
+✅ Explore salary trends across jobs<br/>
+✅ Evaluate employment type distribution<br/>
+✅ Investigate educational requirements<br/>
+✅ Enable users to drill into specific job roles for deeper analysis<br/>
+✅ Present findings through an interactive Power BI dashboard<br/>
 
 ### Target Audience
 This dashboard is intended for:
