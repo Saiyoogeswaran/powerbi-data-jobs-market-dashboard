@@ -1,14 +1,22 @@
 # 📊Data Job Market Analysis Dashboard
-### Quick Facts
-📌 Dataset Size: 479K Job Postings</br>
-📌 Reporting Tool: Power BI</br>
-📌 Analysis Scope: 2024 Data Job Market</br>
-📌 Dashboard Pages: 2</br>
-📌 Key Focus Areas:</br>
-   1️⃣Salary Trends</br>
-   2️⃣Job Demand</br>
-   3️⃣Employment Types</br>
-   4️⃣Role-Specific Analysis</br>
+
+## 🚀 Project Highlights
+
+- Analyzed approximately **479K job postings** from 2024.
+- Built a **2-page interactive Power BI dashboard**.
+- Implemented **drillthrough navigation** and **bookmark-based navigation**.
+- Identified hiring trends, salary benchmarks, and employment patterns.
+- Created a portfolio-ready analytical case study with supporting documentation.
+
+## 📌 Quick Facts
+
+| Metric | Value |
+|----------|----------|
+| Dataset Size | 479K Job Postings |
+| Dashboard Pages | 2 |
+| Tool | Power BI |
+| Analysis Scope | 2024 Data Job Market |
+| Key Focus Areas | Salary, Demand, Employment Trends |
 
 ## Project Overview
 
