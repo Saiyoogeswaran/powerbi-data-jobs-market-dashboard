@@ -61,7 +61,7 @@ The report consists of two pages:
 
 ### Overview Dashboard
 
-![Interactive dashboard summarizing the 2024 data job market with hiring demand, salary trends, and job type distribution.]screenshots/Overview-Dashboard.png
+![Interactive dashboard summarizing the 2024 data job market with hiring demand, salary trends, and job type distribution.](screenshots/Overview-Dashboard.png)
 
 #### Purpose
 
@@ -78,7 +78,7 @@ Provides a high-level view of the 2024 data job market and helps users understan
 
 ### Job Role Drillthrough
 
-![Drillthrough page enabling detailed investigation of specific job roles and their associated characteristics.]screenshots/Drill_through.png
+![Drillthrough page enabling detailed investigation of specific job roles and their associated characteristics.](screenshots/Drill_through.png)
 
 #### Purpose
 
