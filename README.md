@@ -40,12 +40,57 @@ This dashboard is intended for:
 
 - Power BI
 - Power Query
-- DAX
 - Excel
 
 ## Dashboard Preview
 
-[Screenshot Overview]
+### Dashboard Navigation
+
+The report consists of two pages:
+
+1. Overview Dashboard
+   - High-level market analysis
+   - KPI metrics
+   - Salary overview
+   - Hiring distribution
+
+2. Job Role Drillthrough
+   - Role-specific insights
+   - Detailed investigation
+   - Salary and demand analysis
+
+### Overview Dashboard
+
+![Interactive dashboard summarizing the 2024 data job market with hiring demand, salary trends, and job type distribution.]screenshots/Overview-Dashboard.png
+
+#### Purpose
+
+Provides a high-level view of the 2024 data job market and helps users understand hiring demand, salary distribution, employment types, and location trends.
+
+#### Key Features
+
+- Interactive slicers
+- KPI cards
+- Salary analysis
+- Job role comparison
+- Geographic insights
+- Dynamic filtering
+
+### Job Role Drillthrough
+
+![Drillthrough page enabling detailed investigation of specific job roles and their associated characteristics.]screenshots/Drill_through.png
+
+#### Purpose
+
+Allows users to explore an individual job role in greater detail and examine role-specific salaries and hiring characteristics.
+
+#### Key Features
+
+- Drillthrough navigation
+- Detailed role exploration
+- Focused filtering
+- Salary investigation
+- Career-specific analysis
 
 ## Key Insights
 
