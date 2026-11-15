@@ -1,12 +1,40 @@
 # Data Job Market Analysis Dashboard
 
-## Overview
+## Project Overview
 
-Interactive Power BI dashboard analyzing 2024 data job postings.
+### Background
 
-## Business Problem
+The data job market is rapidly evolving, making it challenging for aspiring data professionals to understand which roles are in demand, what skills employers prioritize, and what salary expectations exist across different positions.
 
-Job seekers need visibility into hiring trends, salary ranges and skill requirements.
+This project analyzes data-related job postings from 2024 using Power BI to provide a comprehensive view of the job market and help users make informed career decisions
+
+### Business Problem
+
+Job seekers often struggle to answer questions such as:
+- Which data roles are most in demand?
+- What salary ranges can candidates expect?
+- Which job types dominate the market?
+- What educational requirements appear most frequently?
+
+The goal of this dashboard is to transform raw job posting data into actionable insights that help users better understand the current data job market.
+
+### Project Objectives
+
+✅ Analyze demand for different data-related roles
+✅ Explore salary trends across jobs
+✅ Evaluate employment type distribution
+✅ Investigate educational requirements
+✅ Enable users to drill into specific job roles for deeper analysis
+✅ Present findings through an interactive Power BI dashboard
+
+### Target Audience
+This dashboard is intended for:
+
+- Aspiring Data Analysts
+- Data Scientists
+- Business Analysts
+- Career changers entering data-related fields
+- Students researching the job market
 
 ## Tools Used
 
